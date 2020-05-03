@@ -15,7 +15,7 @@
 # Contributions
 Contributions are welcome. Please read the [contributions guide](CONTRIBUTING.md) for more information.
 
-## Getting Started
+# Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
